@@ -5,3 +5,5 @@ Requires https://dotnetzip.codeplex.com/ to decompress data.
 
 Program creates a XML file with the readable data and an OUT file with the decompressed zlib data.
 An ovs file does not create a xml file.
+
+This software and code is all public domain
